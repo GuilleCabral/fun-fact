@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fun-facts/static/css/main.89d12fd4.chunk.css",
+    "main.js": "/fun-facts/static/js/main.4cb50731.chunk.js",
+    "main.js.map": "/fun-facts/static/js/main.4cb50731.chunk.js.map",
+    "runtime-main.js": "/fun-facts/static/js/runtime-main.0eb0cde4.js",
+    "runtime-main.js.map": "/fun-facts/static/js/runtime-main.0eb0cde4.js.map",
+    "static/js/2.251e8506.chunk.js": "/fun-facts/static/js/2.251e8506.chunk.js",
+    "static/js/2.251e8506.chunk.js.map": "/fun-facts/static/js/2.251e8506.chunk.js.map",
+    "static/js/3.ca624388.chunk.js": "/fun-facts/static/js/3.ca624388.chunk.js",
+    "static/js/3.ca624388.chunk.js.map": "/fun-facts/static/js/3.ca624388.chunk.js.map",
+    "index.html": "/fun-facts/index.html",
+    "static/css/main.89d12fd4.chunk.css.map": "/fun-facts/static/css/main.89d12fd4.chunk.css.map",
+    "static/js/2.251e8506.chunk.js.LICENSE.txt": "/fun-facts/static/js/2.251e8506.chunk.js.LICENSE.txt",
+    "static/media/energySave.3173cc29.jpg": "/fun-facts/static/media/energySave.3173cc29.jpg",
+    "static/media/eternalTrees.13e91357.png": "/fun-facts/static/media/eternalTrees.13e91357.png",
+    "static/media/logo.042eaa10.png": "/fun-facts/static/media/logo.042eaa10.png",
+    "static/media/lowerStress.dc4c0d4e.jpg": "/fun-facts/static/media/lowerStress.dc4c0d4e.jpg",
+    "static/media/propertyValue.aa873af4.jpg": "/fun-facts/static/media/propertyValue.aa873af4.jpg",
+    "static/media/tree.ddb967ee.jpg": "/fun-facts/static/media/tree.ddb967ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eb0cde4.js",
+    "static/js/2.251e8506.chunk.js",
+    "static/css/main.89d12fd4.chunk.css",
+    "static/js/main.4cb50731.chunk.js"
+  ]
+}
